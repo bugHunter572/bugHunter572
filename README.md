@@ -71,7 +71,7 @@ Whether it’s building **scalable web platforms**, developing **AI-powered appl
 ## Contact Me
 
 - 📧 Email: [donkamsai717@outlook.com](mailto:donkamsai717@outlook.com)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/DKamsai)  
+- 🐦 Twitter: [@DKamsai](https://twitter.com/DKamsai)  
 - 💬 Open to freelance and long-term collaborations  
 
 ---
