@@ -10,7 +10,6 @@ As a **remote-friendly freelancer**, I have collaborated with global teams on di
 
 I am also a **lifelong learner**, constantly updating my skills with the latest certifications and trends in **cloud computing, DevOps, AI, and web development**. I believe that technology is a tool to **create meaningful impact**, and I am always looking for opportunities to contribute to projects that challenge me while delivering value to users.  
 
-Whether it’s building **scalable web platforms**, developing **AI-powered applications**, or collaborating on innovative **tech solutions**, my goal is to merge creativity, intelligence, and efficiency into every project I touch. 🌍🚀
 ---
 
 ## About Me
