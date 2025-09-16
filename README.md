@@ -69,8 +69,6 @@ I am also a **lifelong learner**, constantly updating my skills with the latest 
 
 ## Contact Me
 
-- 📧 Email: [donkamsai717@outlook.com](mailto:donkamsai717@outlook.com)  
-- 🐦 Twitter: [@DKamsai](https://twitter.com/DKamsai)  
 - 💬 Open to freelance and long-term collaborations  
 
 ---
