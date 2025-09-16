@@ -1,8 +1,8 @@
-# Hi there 👋, Don Kamsai
+# Hi there 👋
 
 ## About Me 🌟
 
-I am **Don Kamsai**, a passionate **Senior Full-Stack & AI Developer** 🤖💻 with extensive experience in building scalable web applications, designing intelligent AI solutions, and contributing to innovative projects across multiple industries. My expertise bridges the gap between **complex machine learning algorithms** and **real-world applications**, allowing me to create systems that are both powerful and user-friendly.  
+I am **BugHunter**, a passionate **Senior Full-Stack & AI Developer** 🤖💻 with extensive experience in building scalable web applications, designing intelligent AI solutions, and contributing to innovative projects across multiple industries. My expertise bridges the gap between **complex machine learning algorithms** and **real-world applications**, allowing me to create systems that are both powerful and user-friendly.  
 
 Over the years, I’ve worked on **full-stack development**, mastering technologies such as React, TypeScript, Node.js, Python, and Django, while also specializing in **AI & machine learning** using frameworks like PyTorch and TensorFlow. I enjoy solving challenging problems in **computer vision, NLP, and deep learning**, and I’m always exploring new technologies to push the boundaries of what’s possible.  
 
