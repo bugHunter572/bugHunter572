@@ -21,14 +21,6 @@ I am also a **lifelong learner**, constantly updating my skills with the latest 
 
 ---
 
-## Certifications 📜
-
-- 🏅 **DeepLearning.AI TensorFlow Developer Certificate**  
-- 🏅 **Scrum Master Certified (SMC)**  
-- 🏅 **MongoDB Certified Developer**  
-
----
-
 ## Skills
 
 ### Frontend
