@@ -1,8 +1,8 @@
-# Hi there 👋
+# Welcome 👋
 
 ## About Me 🌟
 
-I am **BugHunter**, a passionate **Senior Full-Stack & AI Developer** 🤖💻 with extensive experience in building scalable web applications, designing intelligent AI solutions, and contributing to innovative projects across multiple industries. My expertise bridges the gap between **complex machine learning algorithms** and **real-world applications**, allowing me to create systems that are both powerful and user-friendly.  
+I am **BugHunter572**, a passionate **Senior Full-Stack & AI Developer** 🤖💻 with extensive experience in building scalable web applications, designing intelligent AI solutions, and contributing to innovative projects across multiple industries. My expertise bridges the gap between **complex machine learning algorithms** and **real-world applications**, allowing me to create systems that are both powerful and user-friendly.  
 
 Over the years, I’ve worked on **full-stack development**, mastering technologies such as React, TypeScript, Node.js, Python, and Django, while also specializing in **AI & machine learning** using frameworks like PyTorch and TensorFlow. I enjoy solving challenging problems in **computer vision, NLP, and deep learning**, and I’m always exploring new technologies to push the boundaries of what’s possible.  
 
@@ -64,12 +64,6 @@ I am also a **lifelong learner**, constantly updating my skills with the latest 
 - **E-Commerce Platform:** React + Node.js + MongoDB, with secure payment integration.  
 - **Collaboration Dashboard:** Project management tool with real-time notifications using WebSockets.  
 - **Blog & CMS Platform:** Built with Django + React, supports multi-user content management.  
-
----
-
-## Contact Me
-
-- 💬 Open to freelance and long-term collaborations  
 
 ---
 
