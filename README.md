@@ -1,71 +1,59 @@
-# Welcome 👋
+![](https://komarev.com/ghpvc/?username=Birunthaban)
 
-## About Me 🌟
+### Hi there 👋 I'm Don Kamsai,
 
-I am **BugHunter572**, a passionate **Senior Full-Stack & AI Developer** 🤖💻 with extensive experience in building scalable web applications, designing intelligent AI solutions, and contributing to innovative projects across multiple industries. My expertise bridges the gap between **complex machine learning algorithms** and **real-world applications**, allowing me to create systems that are both powerful and user-friendly.  
+I'm a second year software engineering undergraduate at University of Kelaniya and I'm also following a applied statistics diploma at IASSL.
 
-Over the years, I’ve worked on **full-stack development**, mastering technologies such as React, TypeScript, Node.js, Python, and Django, while also specializing in **AI & machine learning** using frameworks like PyTorch and TensorFlow. I enjoy solving challenging problems in **computer vision, NLP, and deep learning**, and I’m always exploring new technologies to push the boundaries of what’s possible.  
+- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+- 🔭 I’m currently studying:
+	- Mobile Application Development 
+	- Web Application Development 
+- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
 
-As a **remote-friendly freelancer**, I have collaborated with global teams on diverse projects, delivering high-quality solutions with consistency and precision. I thrive in dynamic environments, enjoy **agile development**, and prioritize writing clean, maintainable code.  
+## My Skills Include
 
-I am also a **lifelong learner**, constantly updating my skills with the latest certifications and trends in **cloud computing, DevOps, AI, and web development**. I believe that technology is a tool to **create meaningful impact**, and I am always looking for opportunities to contribute to projects that challenge me while delivering value to users.  
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</span>
 
----
+<h4> Frameworks </h4>
+<span>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</span>
 
-## About Me
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
 
-- 🔹 **Full-Stack Development:** React, TypeScript, Node.js, Python, Django  
-- 🔹 **AI & Machine Learning:** Computer Vision, NLP, Deep Learning, PyTorch, TensorFlow  
-- 🔹 **Cloud & DevOps:** AWS, Docker, CI/CD pipelines  
-- 🔹 **Freelancer:** Open to collaboration on exciting projects worldwide  
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
----
 
-## Skills
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 
-### Frontend
-- React, Redux, TypeScript, HTML5, CSS3, Tailwind CSS, Chakra UI
+</span>
+<hr>
+<p align="center">
+   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br>
+</p>
 
-### Backend
-- Node.js, Express, Python, Django, FastAPI, GraphQL, REST APIs, Java
-
-### AI & ML
-- PyTorch, TensorFlow, OpenCV, scikit-learn, Hugging Face Transformers
-- Computer vision applications: Face recognition, Object detection, GANs
-- NLP applications: Chatbots, text classification, summarization
-
-### Database
-- MongoDB, PostgreSQL, MySQL, Redis
-
-### DevOps & Tools
-- Git/GitHub, Docker, CI/CD, AWS, Nginx, Linux
-
-### Other
-- Agile/Scrum, Jira, Figma, REST API design, Unit Testing
-
----
-
-## Projects
-
-### AI & ML Projects
-- **FaceSwap & DeepFake App:** Built using Python, OpenCV, and PyTorch.  
-- **Text Summarizer:** NLP-based tool that summarizes large documents efficiently.  
-- **Object Detection System:** Real-time detection using YOLOv8.
-
-### Full-Stack Projects
-- **E-Commerce Platform:** React + Node.js + MongoDB, with secure payment integration.  
-- **Collaboration Dashboard:** Project management tool with real-time notifications using WebSockets.  
-- **Blog & CMS Platform:** Built with Django + React, supports multi-user content management.  
-
----
-
-## Fun Facts
-
-- 🚀 I love experimenting with AI in gaming and entertainment.  
-- 🌱 I continuously learn new technologies, especially in AI & cloud computing.  
-- 🎮 Street Fighter fan (Adon is my favorite character 😉)  
-- ☕ Coffee fuels my coding sessions!  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
