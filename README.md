@@ -62,7 +62,7 @@ With hands-on experience in modern web development, cloud-based architecture, an
 ---
 
 ### 📫 Contact Me
-📧 **Email:** daily.chatter717@gmail.com  
+📧 **Email:** donkamsai717@outlook.com
 
 ---
 
